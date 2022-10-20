@@ -1,53 +1,3 @@
-# Instruction to using prototypes
-
-For interactive prototypes, we use Xd, you can click the link to review them directly.
-
-For functional prototype, we use XCode, you can complete the review according to the following instructions.
-
-**Requirements**
-
-MacBook (Ensure that XCode is installed)
-
-iPhone X + (With AR technology, be sure to use the real machine for testing instead of simulator)
-
-XCode 14.0 + & Swift 5.0 + & iOS 15.0 +
-
-**Process**
-
-Step 1: Download the code file "TrackingFace”.
-
-Step 2: Find the file “TrackingFace.xcodeproj” by path “TrackingFace - TrackingFace.xcodeproj”.
-
-Step 3: Open “TrackingFace.xcodeproj” and click “Trust and Open”.
-
-Step 4: Click “TrackingFace” in the upper left corner.
-
-Step 5: Find “Signing & Capabilities”, choose “Automatically manage signing”.
-
-Step 6: For “Team”, you need to log in your personal iCloud account.
-
-Step 7: Set your personal “Bundle Identifier”.
-(Note: If you have no personal “Bundle Identifier”, then quit and create a new project to get your own “Bundle Identifier”)
-
-Step 8: Connect the MacBook to your iPhone with a USB - C cable.
-
-Step 9: Click “Trust this computer” on your iPhone.
-
-Step 10: Select your personal iPhone in XCode.
-
-Step 11: Click the “Run” button in the upper left corner. 
-
-Step 12: Enter your personal computer password.
-
-Step 13: Trust email that you have registered on your iPhone by path “Setting – General – VPN & Device Management”. (Before this step, you may need to enable the “Developer Mode” by path “Setting – Privacy & Security – Developer Mode”)
-
-Step 14: Click the “Run” button in the upper left corner again.
-
-**Note**
-
-Click the lion face, then it will be changed to the panda face.
-
-
 # 01 Conference poster & Promotional Material
 [01 Conference poster & Promotional Material](https://github.com/williamkij/DEC03500Pepsi/wiki/01-Conference-poster-&-Promotional-Material)
 
@@ -164,3 +114,52 @@ Click the lion face, then it will be changed to the panda face.
 # 06 Reference
 
 [06 Reference](https://github.com/williamkij/DEC03500Pepsi/wiki/06-Reference)
+
+# Instruction to using prototypes
+
+For interactive prototypes, we use Xd, you can click the link to review them directly.
+
+For functional prototype, we use XCode, you can complete the review according to the following instructions.
+
+**Requirements**
+
+MacBook (Ensure that XCode is installed)
+
+iPhone X + (With AR technology, be sure to use the real machine for testing instead of simulator)
+
+XCode 14.0 + & Swift 5.0 + & iOS 15.0 +
+
+**Process**
+
+Step 1: Download the code file "TrackingFace”.
+
+Step 2: Find the file “TrackingFace.xcodeproj” by path “TrackingFace - TrackingFace.xcodeproj”.
+
+Step 3: Open “TrackingFace.xcodeproj” and click “Trust and Open”.
+
+Step 4: Click “TrackingFace” in the upper left corner.
+
+Step 5: Find “Signing & Capabilities”, choose “Automatically manage signing”.
+
+Step 6: For “Team”, you need to log in your personal iCloud account.
+
+Step 7: Set your personal “Bundle Identifier”.
+(Note: If you have no personal “Bundle Identifier”, then quit and create a new project to get your own “Bundle Identifier”)
+
+Step 8: Connect the MacBook to your iPhone with a USB - C cable.
+
+Step 9: Click “Trust this computer” on your iPhone.
+
+Step 10: Select your personal iPhone in XCode.
+
+Step 11: Click the “Run” button in the upper left corner. 
+
+Step 12: Enter your personal computer password.
+
+Step 13: Trust email that you have registered on your iPhone by path “Setting – General – VPN & Device Management”. (Before this step, you may need to enable the “Developer Mode” by path “Setting – Privacy & Security – Developer Mode”)
+
+Step 14: Click the “Run” button in the upper left corner again.
+
+**Note**
+
+Click the lion face, then it will be changed to the panda face.
