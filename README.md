@@ -63,6 +63,8 @@
 
 [Draft Prototype](https://github.com/williamkij/DEC03500Pepsi/wiki/04-Design-Process#draft-prototype)
 
+[Draft Prototype](https://github.com/williamkij/DEC03500Pepsi/wiki/04-Design-Process#draft-prototype)
+
 ## Week 9 - Low-Fidelity Prototype & Evaluation
 
 [Week 9 - Low-Fidelity Prototype & Evaluation](https://github.com/williamkij/DEC03500Pepsi/wiki/04-Design-Process#week-9---low-fidelity-prototype--evaluation)
